@@ -1,3 +1,15 @@
 .bg-secrettrio {
-    background-color: rgb(0, 128, 73);
+    background-color: rgb(0, 194, 110);
+}
+.bg-favoritegame.html {
+    background-color: rgb(0, 140, 255) ;
+}
+.bg-Favoritetvshows.html{
+    background-color: rgb(255, 52, 154);
+}
+.bg-Languages.html{
+    background-color: rgb(86, 0, 167);
+}
+.bg-hurricanenames.html {
+    background-color: rgb(255, 136, 0);
 }
