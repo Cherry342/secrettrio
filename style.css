@@ -1,3 +1,30 @@
+body{
+    font-family: 'Roboto' , sans-serif;
+    background-color: #ab0000;
+    color:#5cff93;
+    margin: 0 ;
+    
+   
+
+}
+ main {
+    max-width: 768px;
+    margin:0 auto;
+ }
+a:link {
+    color: #6200ff
+  }
+  
+  a:visited {
+   color:#ff48c8;
+  }
+    a:hover {
+        color: #00c3ff
+      }
+      a:active {
+        color: #ac5600
+      }
+      
 .bg-secrettrio {
     background-color: rgb(0, 196, 111);
     color:rgb(161, 255, 180) 
